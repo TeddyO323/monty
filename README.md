@@ -106,21 +106,9 @@ File Name | Description :
 
     LIFO stand for Last In First Out
 ---
-**Requirements :**<br>
-    Allowed editors: vi, vim, emacs<br>
-    All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c90<br>
-    All your files should end with a new line<br>
-    A README.md file, at the root of the folder of the project is mandatory<br>
-    Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl<br>
-    You allowed to use a maximum of one global variable<br>
-    No more than 5 functions per file<br>
-    You are allowed to use the C standard library<br>
-    The prototypes of all your functions should be included in your header file called monty.h<br>
-    Don’t forget to push your header file<br>
-    All your header files should be include guarded<br>
-    You are expected to do the tasks in the order shown in the project<br>
 
----
+
+
 ***Compilation & Output :***
 
     typedef struct stack_s
@@ -148,4 +136,5 @@ File Name | Description :
 
 
 
-### Authors C.Le Sauter - G.Coudrin - S.Badyine  for Holberton School Paris
+### Authors <li><a href="https://github.com/TeddyO323" title="Teddy Omondi" target="_blank">Teddy Omondi</a> </li>
+
